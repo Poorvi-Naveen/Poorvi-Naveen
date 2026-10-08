@@ -9,8 +9,8 @@
 ```text
 const poorvi = {
     pronouns: "She/Her",
-    code: ["Python", "JavaScript", "C++", "HTML/CSS"], // Customize with your languages
-    interests: ["Web Development", "Cloud Computing", "Open Source"],
+    code: ["Python", "Java", "JavaScript", "C++", "HTML/CSS", "SpringBoot", "React"],
+    interests: ["Web Development", "Cloud Computing", "Machine Learning"],
     currentFocus: "Building impactful software projects & learning modern cloud tech",
     funFact: "Always eager to debug through challenges and learn something new!"
 };
